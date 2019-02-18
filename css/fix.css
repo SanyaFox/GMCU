@@ -1,0 +1,12 @@
+.layout-center, .layout-center-wrap>.layout-wrap {
+    max-width: 90% !important;
+}
+body {
+    background: url(../images/desktop-2325627.jpg) no-repeat;
+    -moz-background-size: 100%; /* Firefox 3.6+ */
+    -webkit-background-size: 100%; /* Safari 3.1+ и Chrome 4.0+ */
+    -o-background-size: 100%; /* Opera 9.6+ */
+    /* Preserve aspet ratio */
+    min-width:100%;
+    min-height:100%;
+}
