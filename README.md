@@ -1,2 +1,2 @@
 # GMCU
-Game Minecraft Universe | GMCU Demo: https://sanyafox.ru/portfolio/gmcu
+Game Minecraft Universe | GMCU Demo: https://velfan.ru/portfolio/gmcu
